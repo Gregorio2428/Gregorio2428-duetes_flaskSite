@@ -1,0 +1,6 @@
+flaskENV/
+__pycache__/
+*.pyc
+*.db
+instance/
+.vscode/
